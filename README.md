@@ -16,4 +16,4 @@ Flutter Apps
 - [Quran Flutter](https://github.com/SadaqaWorks/Quran-Flutter) - Quran made with Flutter for All platforms
 - [Muslim Guide App](https://github.com/Mohamed-7018/Muslim-Guide-App) - Muslim guide app is the app that help muslims in their dialy habits like reading Qur'an, Azkar, Sebha, praying time and ElQibla direction. 
 - [Sirate Mustaqeem - Quran, Hadith, Prayers, Duas](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem) - It’s an Islamic application that contains quran, hadees, azkar.
-- [Raheem App](https://github.com/omarreess/Raheem-App) - [Play Store](https://play.google.com/store/apps/details?id=com.omaressam.raheem.raheem) - Raheem is an Islamic app for Calculating Prayer Times and Daily Islamic Stories Quran-Verse , Hadith & Tafsir.
+- [Raheem App](https://github.com/omarreess/Raheem-App) - <a href="https://play.google.com/store/apps/details?id=com.omaressam.raheem.raheem"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=30px/></a> - Raheem is an Islamic app for Calculating Prayer Times and Daily Islamic Stories Quran-Verse , Hadith & Tafsir.
